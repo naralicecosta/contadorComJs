@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(90deg, #35f1e8d8, #c53bcada );
+    font: normal 15pt Arial;
+    margin: 200px;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: rgb(248, 220, 220);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500;
+    margin: auto;
+    box-shadow: 3px  3px 10px rgba(0, 0, 0, 0.363);
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
